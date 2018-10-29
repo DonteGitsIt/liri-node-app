@@ -21,12 +21,18 @@ This is a console Language Interpretation and Recognition Interface that can be 
 
 * Finding concerts
     * type: node liri concert-this (artist)
-    * example: node liri concert-this drake
+    * example: 
+    ![Concert info example](/images/concert_example)
+    ![Concert info example](/images/concert_example2)
 
 * Finding song info
     * type: node liri spotify-this-song (song)
-    * example: node liri spotify-this-song hey jude
+    * example: 
+    ![Song info example](/images/song_example)
+    ![Song info example](/images/song_example2)
 
 * Finding movie info
     * type: node liri movie-this (movie)
-    * example: node liri movie-this the lion king
+    * example:
+    ![Movie info example](/images/movie_example)
+    ![Movie info example](/images/movie_example2)
