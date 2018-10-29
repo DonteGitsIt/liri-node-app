@@ -1,23 +1,23 @@
-#liri-node-app
+# liri-node-app
 
-##Required NPM Packages
+## Required NPM Packages
 
 * dotenv
 * moment
 * node-spotify-api
 * request
 
-##Required APIs 
+## Required APIs 
 
 * spotify api
 * bandsintown api
 * omdb api
 
-##Use
+## Use
 
 This is a console Language Interpretation and Recognition Interface that can be used to find information on concerts, movies, and songs
 
-##Commands
+## Commands
 
 * Finding concerts
     * type: node liri concert-this (artist)
